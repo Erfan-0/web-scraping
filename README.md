@@ -14,7 +14,7 @@
         </tr> 
         <tr>  
             <td>2</td>  
-            <td><a href="https://github.com/Erfan-0/python-mini-projects">BombSquad</a></td>  
+            <td><a href="https://github.com/Erfan-0/web-scraping/tree/main/bs-scraping">BombSquad</a></td>  
             <td><a href="https://github.com/erfan-0"">Erfan-0</a></td>  
         </tr>
         <tr>  
